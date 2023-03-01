@@ -3,3 +3,8 @@ def inifungsi(cred):
 
 masukan = input("masukan input: ")
 inifungsi(masukan)
+
+for i in masukan:
+    print('pembohong')
+
+
